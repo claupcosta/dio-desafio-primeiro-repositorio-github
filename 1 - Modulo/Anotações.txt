@@ -1,5 +1,7 @@
 Anotações sobre o Módulo 1:
+07/06/2022
 
 Link para Download do Git: https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
